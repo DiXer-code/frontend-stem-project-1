@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Вхід і реєстрація — Learn + earn</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+  </head>
+
+  <body class="page-auth">
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html">
+          <img class="brand-logo" src="images/logo.png" alt="Логотип Learn + earn" onerror="this.style.display='none'">
+          <span>Learn <b>+</b> earn</span>
+        </a>
+        <nav aria-label="Основна навігація">
+          <a href="index.html">Головна</a>
+          <a href="topics.html">Теми</a>
+          <a href="feedback.html">Зворотний зв’язок</a>
+        </nav>
+        <div class="auth-actions" data-auth-actions></div>
+      </div>
+    </header>
+
+    <main class="auth-page">
+      <section class="auth-card">
+        <div>
+          <p class="eyebrow">Новий користувач?</p>
+          <h1>Реєстрація</h1>
+          <form id="register-form">
+            <label for="register-name">Ім’я</label>
+            <input id="register-name" name="name" minlength="2" maxlength="60" pattern=".*\S.*" title="Введіть ім’я щонайменше з 2 символів." required autocomplete="name">
+
+            <label for="register-email">E-mail</label>
+            <input id="register-email" name="email" type="email" pattern=".+@gmail\.com" title="Використовуйте адресу Gmail, наприклад name@gmail.com." required autocomplete="email">
+
+            <label for="register-password">Пароль</label>
+            <input id="register-password" name="password" type="password" minlength="6" maxlength="128" title="Пароль має містити щонайменше 6 символів." required autocomplete="new-password">
+
+            <button class="button" type="submit">Зареєструватися</button>
+          </form>
+        </div>
+
+        <div>
+          <p class="eyebrow">Вже маєш акаунт?</p>
+          <h2>Увійти</h2>
+          <form id="login-form">
+            <label for="login-email">E-mail</label>
+            <input id="login-email" name="email" type="email" pattern=".+@gmail\.com" title="Використовуйте адресу Gmail, наприклад name@gmail.com." required autocomplete="email">
+
+            <label for="login-password">Пароль</label>
+            <input id="login-password" name="password" type="password" minlength="6" maxlength="128" title="Пароль має містити щонайменше 6 символів." required autocomplete="current-password">
+
+            <button class="button" type="submit">Увійти</button>
+          </form>
+        </div>
+
+        <p class="form-message" aria-live="polite"></p>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2026 Learn + earn.</p>
+    </footer>
+  </body>
+</html>
