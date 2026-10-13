@@ -47,3 +47,73 @@ input[type="email"] { background-color: rgb(248, 253, 253); }
 @keyframes gentle-appear { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
 .page-index .hero, .page-feedback .form-card { animation: gentle-appear .6s ease-out both; }
 @media (max-width: 820px) { .page-index .header-inner > nav { margin-left: 0; padding-top: 52px; } .page-index .table-wrap:hover { transform: none; } }
+
+.page-lab main { display: grid; gap: 32px; }
+.page-lab .page-intro { margin-bottom: 0; }
+.lab-section { padding: 30px; background: #fff; border: 1px solid var(--line); border-radius: 18px; box-shadow: 0 8px 24px #1630470d; }
+.lab-heading { display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; margin-bottom: 20px; }
+.lab-actions { justify-content: flex-end; margin-top: 0; }
+.result-message { min-height: 28px; padding: 10px 14px; color: var(--ink); background: #eefafb; border-left: 4px solid var(--aqua); border-radius: 6px; font-weight: 600; }
+.data-table-wrap { margin: 18px 0; overflow-x: auto; }
+.data-table { min-width: 850px; }
+.data-table th { white-space: nowrap; }
+.data-table tbody tr:nth-child(even) { background: #f7fbfc; }
+.data-table .topic-checkbox { width: auto; }
+.lab-form-panel { margin-top: 22px; padding: 18px; background: #f7fbfc; border: 1px solid var(--line); border-radius: 10px; }
+.lab-form-panel summary { font-weight: 800; cursor: pointer; }
+.form-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+.form-grid label, .inline-form label { display: grid; gap: 6px; }
+.inline-form { display: flex; align-items: end; gap: 14px; margin: 0 0 18px; }
+.inline-form label { min-width: 170px; }
+@media (max-width: 820px) { .lab-heading { flex-direction: column; } .lab-actions { justify-content: flex-start; } .form-grid { grid-template-columns: 1fr 1fr; } .inline-form { align-items: stretch; flex-direction: column; } }
+@media (max-width: 520px) { .lab-section { padding: 22px 16px; } .form-grid { grid-template-columns: 1fr; } }
+
+.modal-open { overflow: hidden; }
+.modal-open > :not(.goal-modal) { pointer-events: none; user-select: none; }
+.page-index.night-mode { background-color: color-mix(in srgb, var(--mist) 50%, #000); }
+.page-index.night-mode .site-header,
+.page-index.night-mode .card,
+.page-index.night-mode .table-wrap,
+.page-index.night-mode .button-light { background-color: color-mix(in srgb, #fff 50%, #000); }
+.page-index.night-mode .hero { background: linear-gradient(125deg, color-mix(in srgb, #163047 50%, #000), color-mix(in srgb, #176b87 50%, #000) 62%, color-mix(in srgb, #35b5be 50%, #000)); }
+.page-index.night-mode .button { background-color: color-mix(in srgb, var(--blue) 50%, #000); }
+.page-index.night-mode .button.button-light { background-color: color-mix(in srgb, #fff 50%, #000); }
+.page-index.night-mode thead,
+.page-index.night-mode tfoot,
+.page-index.night-mode .contacts { background-color: color-mix(in srgb, #dff4f4 50%, #000); }
+.page-index.night-mode .contacts { transition: none; }
+.page-index.night-mode footer { background-color: color-mix(in srgb, #163047 50%, #000); }
+.page-index.night-mode .goal-modal { background-color: rgba(0, 0, 0, .86); }
+.page-index.night-mode .goal-modal-content { background-color: color-mix(in srgb, #dff4f4 50%, #000); }
+.page-index.night-mode .goal-modal-close { background-color: color-mix(in srgb, #fff 50%, #000); }
+.page-index.night-mode .card,
+.page-index.night-mode .card p,
+.page-index.night-mode .table-wrap,
+.page-index.night-mode .contacts,
+.page-index.night-mode .goal-modal-content { color: #f1f8f9; }
+.page-index.night-mode nav a,
+.page-index.night-mode .login-link,
+.page-index.night-mode .user-greeting { color: #d7eef0; }
+.goal-modal { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; padding: 20px; background: rgba(22, 48, 71, .72); }
+.goal-modal-content { position: relative; width: min(520px, 100%); padding: 36px; color: var(--ink); background: #dff4f4; border: 2px solid var(--aqua); border-radius: 18px; box-shadow: 0 24px 70px rgba(0, 0, 0, .35); }
+.goal-modal-content ol { margin: 18px 0 0; padding-left: 24px; }
+.goal-modal-content li + li { margin-top: 10px; }
+.goal-modal-close { position: absolute; top: 12px; right: 14px; width: 38px; height: 38px; padding: 0; color: var(--ink); background: #fff; border: 1px solid var(--line); border-radius: 50%; font-size: 26px; line-height: 1; cursor: pointer; }
+.topic-search { margin: 0 0 24px; padding: 20px; background: #fff; border: 1px solid var(--line); border-radius: 14px; }
+.topic-search label { display: block; margin-bottom: 7px; }
+.topic-search-result { min-height: 24px; margin: 8px 0 0; color: #557080; }
+.topics-accordion { position: fixed; top: 92px; left: 14px; z-index: 20; width: 245px; max-height: calc(100vh - 112px); padding: 14px; overflow-y: auto; background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: 0 10px 28px #16304720; }
+.topics-accordion h2 { font-size: 17px; }
+.accordion-item button { width: 100%; padding: 9px 0; color: var(--blue); background: transparent; border: 0; border-bottom: 1px solid var(--line); font: 700 14px Manrope, sans-serif; text-align: left; cursor: pointer; }
+.accordion-item button::after { content: '+'; float: right; }
+.accordion-item button[aria-expanded="true"]::after { content: '−'; }
+.accordion-item p { margin: 8px 0; color: #557080; font-size: 13px; }
+.detail-field-wrap { position: relative; order: 2; }
+.detail-field-wrap textarea { cursor: pointer; }
+.detail-field-wrap:hover textarea, .detail-field-wrap textarea:focus { background-color: #e3f5f5; border-color: var(--aqua); box-shadow: 0 0 0 4px #35b5be33, 0 8px 18px #16304720; }
+.detail-tooltip { position: absolute; top: 50%; left: calc(100% + 12px); z-index: 5; width: 250px; padding: 10px 12px; visibility: hidden; color: #fff; background: var(--ink); border-radius: 8px; opacity: 0; transform: translateY(-50%); transition: opacity .2s; pointer-events: none; }
+.detail-field-wrap:hover .detail-tooltip, .detail-field-wrap:focus-within .detail-tooltip { visibility: visible; opacity: 1; }
+@media (max-width: 1660px) { .topics-accordion { position: static; width: 245px; max-height: none; margin: 92px 0 0 14px; } .page-topics main { padding-top: 32px; } }
+@media (max-width: 820px) { .topics-accordion { margin-top: 150px; } }
+@media (max-width: 520px) { .topics-accordion { width: calc(100% - 28px); margin-right: 14px; } }
+@media (max-width: 1050px) { .detail-tooltip { position: static; display: none; width: 100%; margin-top: 8px; transform: none; } .detail-field-wrap:hover .detail-tooltip, .detail-field-wrap:focus-within .detail-tooltip { display: block; } }

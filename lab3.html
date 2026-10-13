@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна №3 — Learn + earn</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="app.js" defer></script>
+    <script src="lab3.js" defer></script>
+  </head>
+  <body class="page-lab">
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="index.html" aria-label="Learn + earn — головна">
+          <img class="brand-logo" src="images/logo.png" alt="Логотип Learn + earn" onerror="this.style.display='none'">
+          <span>Learn <b>+</b> earn</span>
+        </a>
+        <nav aria-label="Основна навігація">
+          <a href="index.html">Головна</a>
+          <a href="topics.html">Навчальні теми</a>
+          <a href="feedback.html">Зворотний зв’язок</a>
+          <a href="lab3.html" aria-current="page">Лабораторна №3</a>
+        </nav>
+        <div class="auth-actions" data-auth-actions></div>
+      </div>
+    </header>
+    <main>
+      <section class="page-intro">
+        <p class="eyebrow">Варіант 10</p>
+        <h1>Масиви, функції та ООП у JavaScript</h1>
+        <p>Інтерактивна реалізація двох програмних завдань лабораторної роботи №3.</p>
+      </section>
+
+      <section class="lab-section" aria-labelledby="topics-heading">
+        <div class="lab-heading">
+          <div><p class="eyebrow">Завдання 1</p><h2 id="topics-heading">Облік навчальних тем</h2></div>
+          <div class="button-row lab-actions">
+            <button class="button" id="sort-topics" type="button">Упорядкувати за тривалістю</button>
+            <button class="button button-light outline" id="find-min-topic" type="button">Мінімум за добу 2</button>
+          </div>
+        </div>
+        <p id="topics-summary" class="result-message" aria-live="polite"></p>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th scope="col">Обрати</th><th scope="col">ID</th><th scope="col">Тема</th><th scope="col">Автор</th><th scope="col">Тип завдань</th><th scope="col">Доба 1</th><th scope="col">Доба 2</th><th scope="col">Середнє</th><th scope="col">Тривалість, хв</th></tr></thead>
+            <tbody id="topics-body"></tbody>
+          </table>
+        </div>
+        <div class="button-row"><button class="button" id="calculate-duration" type="button">Обчислити тривалість обраних</button></div>
+        <details class="lab-form-panel">
+          <summary>Додати нову тему</summary>
+          <form id="topic-form" novalidate>
+            <div class="form-grid">
+              <label>Назва теми<input name="title" type="text"></label>
+              <label>Автор<input name="author" type="text"></label>
+              <label>Тип завдань<input name="taskType" type="text"></label>
+              <label>Прочитали за добу 1<input name="day1Readers" type="number" min="0"></label>
+              <label>Прочитали за добу 2<input name="day2Readers" type="number" min="0"></label>
+              <label>Тривалість, хв<input name="duration" type="number" min="1"></label>
+            </div>
+            <button class="button" type="submit">Додати тему</button>
+            <p class="form-message" aria-live="polite"></p>
+          </form>
+        </details>
+      </section>
+
+      <section class="lab-section" aria-labelledby="users-heading">
+        <div class="lab-heading">
+          <div><p class="eyebrow">Завдання 2</p><h2 id="users-heading">Облік звернень користувачів</h2></div>
+          <div class="button-row lab-actions">
+            <button class="button" id="find-youngest" type="button">Наймолодший користувач</button>
+            <button class="button button-light outline" id="classify-users" type="button">Розподілити на класи</button>
+            <button class="button button-light outline" id="sort-user-emails" type="button">Сортувати E-mail</button>
+          </div>
+        </div>
+        <form id="user-filter-form" class="inline-form">
+          <label>Місяць<select name="month"><option value="0">Січень</option><option value="1">Лютий</option><option value="2">Березень</option><option value="3">Квітень</option><option value="4">Травень</option><option value="5">Червень</option><option value="6">Липень</option><option value="7">Серпень</option><option value="8">Вересень</option><option value="9" selected>Жовтень</option><option value="10">Листопад</option><option value="11">Грудень</option></select></label>
+          <label>Час звернення<input name="time" type="time" value="13:40" required></label>
+          <button class="button" type="submit">Показати звернення</button>
+        </form>
+        <p id="users-summary" class="result-message" aria-live="polite"></p>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th scope="col">Прізвище та ім’я</th><th scope="col">Вік</th><th scope="col">E-mail</th><th scope="col">Мета звернення</th><th scope="col">Дата</th><th scope="col">Час</th></tr></thead>
+            <tbody id="users-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+    </main>
+    <footer><p>© 2026 Learn + earn.</p></footer>
+  </body>
+</html>
