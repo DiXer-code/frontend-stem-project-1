@@ -1,0 +1,644 @@
+{
+  "source": "@mdn/browser-compat-data",
+  "version": "8.1.6",
+  "sourceUrl": "https://github.com/mdn/browser-compat-data",
+  "date": "2026-10-19",
+  "browsers": [
+    "chrome",
+    "edge",
+    "ie",
+    "firefox",
+    "safari",
+    "opera"
+  ],
+  "elements": [
+    {
+      "name": "a",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/a",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "address",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/address",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "article",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/article",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "aside",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/aside",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "b",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/b",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "body",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/body",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "br",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/br",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "button",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/button",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤15"
+    },
+    {
+      "name": "caption",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/caption",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    },
+    {
+      "name": "details",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/details",
+      "chrome": "≥12",
+      "edge": "≥79",
+      "ie": "Ні",
+      "firefox": "≥49",
+      "safari": "≥6",
+      "opera": "≥15"
+    },
+    {
+      "name": "div",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/div",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "em",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/em",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    },
+    {
+      "name": "fieldset",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/fieldset",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≤15"
+    },
+    {
+      "name": "footer",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/footer",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "form",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/form",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥3",
+      "opera": "≥15"
+    },
+    {
+      "name": "h1",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/Heading_Elements",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "h2",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/Heading_Elements",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "h3",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/Heading_Elements",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "head",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/head",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "header",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/header",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "html",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/html",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "i",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/i",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "img",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/img",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "input",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/input",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "label",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/label",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    },
+    {
+      "name": "legend",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/legend",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≥6",
+      "firefox": "≥1",
+      "safari": "≥3",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "li",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/li",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≥5.5",
+      "firefox": "≥1",
+      "safari": "≥3",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "link",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/link",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "main",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/main",
+      "chrome": "≥26",
+      "edge": "≥12",
+      "ie": "Ні",
+      "firefox": "≥21",
+      "safari": "≥7",
+      "opera": "≥16"
+    },
+    {
+      "name": "meta",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/meta",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "nav",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/nav",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "ol",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/ol",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    },
+    {
+      "name": "option",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/option",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    },
+    {
+      "name": "p",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/p",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "script",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/script",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥3",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "section",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/section",
+      "chrome": "≥5",
+      "edge": "≥12",
+      "ie": "≥9",
+      "firefox": "≥4",
+      "safari": "≥5",
+      "opera": "≥11.1"
+    },
+    {
+      "name": "select",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/select",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥2"
+    },
+    {
+      "name": "span",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/span",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "summary",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/summary",
+      "chrome": "≥12",
+      "edge": "≥79",
+      "ie": "Ні",
+      "firefox": "≥49",
+      "safari": "≥6",
+      "opera": "≥15"
+    },
+    {
+      "name": "table",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/table",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "tbody",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/tbody",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "td",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/td",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "textarea",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/textarea",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "tfoot",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/tfoot",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "th",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/th",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "thead",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/thead",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "title",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/title",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≥1",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "tr",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/tr",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≤12.1"
+    },
+    {
+      "name": "u",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/u",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≥1",
+      "opera": "≥15"
+    },
+    {
+      "name": "ul",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/ul",
+      "chrome": "≥1",
+      "edge": "≥12",
+      "ie": "≤11",
+      "firefox": "≥1",
+      "safari": "≤4",
+      "opera": "≥15"
+    }
+  ],
+  "features": [
+    {
+      "name": "CSS Grid",
+      "chrome": "≥57",
+      "edge": "≥16",
+      "ie": "≥10 частково (-ms-)",
+      "firefox": "≥52",
+      "safari": "≥10.1",
+      "opera": "≥44"
+    },
+    {
+      "name": "CSS Flexbox",
+      "chrome": "≥29",
+      "edge": "≥12",
+      "ie": "≥11 частково",
+      "firefox": "≥20",
+      "safari": "≥9",
+      "opera": "≥16"
+    },
+    {
+      "name": "CSS min()",
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/min",
+      "chrome": "≥79",
+      "edge": "≥79",
+      "ie": "Ні",
+      "firefox": "≥75",
+      "safari": "≥11.1",
+      "opera": "≥66"
+    },
+    {
+      "name": "CSS clamp()",
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/clamp",
+      "chrome": "≥79",
+      "edge": "≥79",
+      "ie": "Ні",
+      "firefox": "≥75",
+      "safari": "≥13.1",
+      "opera": "≥66"
+    },
+    {
+      "name": "CSS color-mix()",
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Values/color_value/color-mix",
+      "chrome": "≥111",
+      "edge": "≥111",
+      "ie": "Ні",
+      "firefox": "≥113",
+      "safari": "≥16.2",
+      "opera": "≥97"
+    },
+    {
+      "name": "CSS appearance",
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/appearance",
+      "chrome": "≥84",
+      "edge": "≥84",
+      "ie": "Ні",
+      "firefox": "≥80",
+      "safari": "≥15.4",
+      "opera": "≥70"
+    },
+    {
+      "name": "inert",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Global_attributes/inert",
+      "chrome": "≥102",
+      "edge": "≥102",
+      "ie": "Ні",
+      "firefox": "≥112",
+      "safari": "≥15.5",
+      "opera": "≥88"
+    },
+    {
+      "name": "IntersectionObserver",
+      "url": "https://developer.mozilla.org/docs/Web/API/IntersectionObserver",
+      "chrome": "≥51",
+      "edge": "≥15",
+      "ie": "Ні",
+      "firefox": "≥55",
+      "safari": "≥12.1",
+      "opera": "≥38"
+    },
+    {
+      "name": "input type=date",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/input/date",
+      "chrome": "≥20",
+      "edge": "≥12",
+      "ie": "Ні",
+      "firefox": "≥57",
+      "safari": "≥14.1",
+      "opera": "≥11"
+    },
+    {
+      "name": "input type=time",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/input/time",
+      "chrome": "≥20",
+      "edge": "≥12",
+      "ie": "Ні",
+      "firefox": "≥57",
+      "safari": "≥14.1",
+      "opera": "≥10"
+    },
+    {
+      "name": "input type=number",
+      "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Elements/input/number",
+      "chrome": "≥7",
+      "edge": "≥12",
+      "ie": "≥10",
+      "firefox": "≥29",
+      "safari": "≥5.1",
+      "opera": "≥15"
+    },
+    {
+      "name": "img loading=lazy",
+      "chrome": "≥77",
+      "edge": "≥79",
+      "ie": "Ні",
+      "firefox": "≥75",
+      "safari": "≥15.4",
+      "opera": "≥64"
+    },
+    {
+      "name": "img srcset",
+      "chrome": "≥34",
+      "edge": "≥12",
+      "ie": "Ні",
+      "firefox": "≥38",
+      "safari": "≥8",
+      "opera": "≥21"
+    }
+  ]
+}

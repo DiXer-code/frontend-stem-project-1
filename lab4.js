@@ -105,13 +105,13 @@ function initializeTopicSearch() {
   const topicsGrid = document.querySelector('.topics-grid');
   if (!topicsGrid) return;
 
-  const search = document.createElement('div');
+  const search = document.querySelector('.topic-search') || document.createElement('div');
   search.className = 'topic-search';
-  search.innerHTML = `
+  if (!search.querySelector('input')) search.innerHTML = `
     <label for="topic-search-input">Пошук теми за назвою</label>
     <input id="topic-search-input" type="search" placeholder="Наприклад, граматика" autocomplete="off">
     <p class="topic-search-result" aria-live="polite"></p>`;
-  topicsGrid.before(search);
+  if (!search.isConnected) topicsGrid.before(search);
 
   const input = search.querySelector('input');
   const result = search.querySelector('.topic-search-result');
@@ -135,7 +135,7 @@ function initializeTopicsAccordion() {
   const cards = [...document.querySelectorAll('.topics-grid .topic-card')];
   if (!cards.length) return;
 
-  const accordion = document.createElement('aside');
+  const accordion = document.querySelector('.topics-accordion') || document.createElement('aside');
   accordion.className = 'topics-accordion';
   accordion.setAttribute('aria-label', 'Короткий опис навчальних тем');
   accordion.innerHTML = '<h2>Коротко про теми</h2>';
@@ -163,7 +163,7 @@ function initializeTopicsAccordion() {
     });
     accordion.append(item);
   });
-  document.querySelector('.site-header').after(accordion);
+  if (!accordion.isConnected) document.querySelector('.site-header').after(accordion);
 }
 
 function initializeFeedbackTooltip() {

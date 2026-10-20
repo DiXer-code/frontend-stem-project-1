@@ -1,0 +1,87 @@
+/* Лабораторна 5: адаптивність, сумісність і стабільна верстка. */
+:root { --page-gutter: 1.25rem; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+body { overflow-wrap: break-word; }
+main, main > *, .card, .form-card, .auth-card > *, .lab-section,
+.lab-heading > *, .form-grid > *, fieldset { min-width: 0; }
+img { max-width: 100%; height: auto; }
+.topic-card img { max-width: calc(100% + 52px); }
+.brand-logo { flex: 0 0 auto; height: 2.625rem; }
+.header-inner, main, .contacts { width: calc(100% - 2 * var(--page-gutter)); max-width: 70rem; }
+.form-page { max-width: 43.75rem; }
+.auth-page { max-width: 56.25rem; }
+.header-inner { flex-wrap: wrap; padding: .875rem 0; gap: .75rem 1.25rem; }
+nav { flex-wrap: wrap; align-items: center; gap: .25rem 1rem; min-width: 0; }
+nav a { display: inline-flex; align-items: center; min-height: 2.75rem; }
+.page-index .header-inner > nav { order: 3; width: 100%; margin-left: 0; padding-top: 0; }
+/* Зберігаємо absolute з ЛР2 і резервуємо місце для логотипа. */
+.page-index .brand { top: .875rem; }
+.page-index .auth-actions { margin-left: auto; min-height: 2.625rem; padding-left: 14rem; }
+.button, .logout-button, .accordion-item button { min-height: 2.75rem; }
+input, select, textarea { min-width: 0; max-width: 100%; }
+input, select, button, textarea { -webkit-appearance: none; appearance: none; }flo
+input[type="checkbox"] { -webkit-appearance: checkbox; appearance: auto; flex: 0 0 auto; }
+select { -webkit-appearance: menulist; appearance: auto; }
+textarea { resize: vertical; }
+.table-wrap, .data-table-wrap { max-width: 100%; overflow-x: auto; }
+.card-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.form-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.eyebrow { color: #176b87; }
+.hero .eyebrow { color: var(--gold); }
+.brand b { color: #08757d; }
+.form-message { color: #116343; }
+/* У компактному макеті шапка залишається в потоці і не закриває форму. */
+@media (max-width: 68.75rem) {
+  .site-header, .page-index .site-header, .page-topics .site-header { position: static; }
+  .header-inner > nav { order: 3; width: 100%; margin: 0; }
+  .auth-actions { margin-left: auto; }
+  .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .page-topics main { padding-top: 2rem; }
+  .topics-accordion { margin-top: 1rem; }
+}
+@media (max-width: 51.25rem) {
+  .auth-card { grid-template-columns: minmax(0, 1fr); }
+  .form-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 32.5rem) {
+  :root { --page-gutter: .875rem; }
+  .header-inner { gap: .5rem; }
+  .page-index .brand { position: static; }
+  .page-index .auth-actions { padding-left: 0; }
+  .brand-logo { height: 2.25rem; }
+  .auth-actions { justify-content: flex-end; flex-wrap: wrap; }
+  nav { gap: .25rem .75rem; font-size: .875rem; }
+  nav a { white-space: normal; }
+  .card-grid, .form-grid { grid-template-columns: minmax(0, 1fr); }
+  .topic-card h2 { overflow-wrap: anywhere; }
+  .form-card, .auth-card { padding: 1.5rem 1.25rem; }
+  .goal-modal { padding: .75rem; }
+  .goal-modal-content { max-height: calc(100vh - 1.5rem); overflow-y: auto; padding: 2.75rem 1.25rem 1.5rem; }
+}
+/* Точна висота шапки більше не впливає на позицію акордеона. */
+.page-topics .site-header { position: sticky; }
+.topics-accordion { position: static; width: calc(100% - 2 * var(--page-gutter)); max-width: 70rem; margin: 1rem auto 0; max-height: none; min-height: 20.5rem; }
+.topics-accordion h2 { line-height: 1.2; }
+.accordion-item button { padding: .5rem 0; }
+.page-topics main { padding-top: 2rem; }
+@media (max-width: 68.75rem) { .page-topics .site-header { position: static; } }
+/* Місце для підказки зарезервоване: blur не пересуває прапорець. */
+@media (max-width: 65.625rem) {
+  .detail-tooltip { position: static; display: block; width: 100%; margin-top: .5rem; transform: none; }
+  .detail-field-wrap:hover .detail-tooltip, .detail-field-wrap:focus-within .detail-tooltip { display: block; }
+}
+/* Резервні кольори для браузерів без color-mix(). */
+@supports not (background: color-mix(in srgb, white, black)) {
+  .page-index.night-mode { background: #777c7c; }
+  .page-index.night-mode .site-header, .page-index.night-mode .card,
+  .page-index.night-mode .table-wrap, .page-index.night-mode .button-light,
+  .page-index.night-mode .goal-modal-close { background: #808080; }
+  .page-index.night-mode .hero { background: linear-gradient(125deg, #0b1824, #0c3644 62%, #1b5b5f); }
+  .page-index.night-mode .button { background: #0c3644; }
+  .page-index.night-mode thead, .page-index.night-mode tfoot,
+  .page-index.night-mode .contacts, .page-index.night-mode .goal-modal-content { background: #707a7a; }
+  .page-index.night-mode footer { background: #0b1824; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+}

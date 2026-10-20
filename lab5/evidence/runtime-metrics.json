@@ -1,0 +1,701 @@
+[
+  {
+    "file": "index.html",
+    "browser": "155.0.8059.80",
+    "viewport": "1366x768",
+    "wallMs": 1004,
+    "checks": {
+      "modal": true,
+      "focusTrap": true,
+      "escapeClose": true,
+      "focusRestore": true,
+      "nightHours": true
+    },
+    "navigation": {
+      "name": "http://127.0.0.1:8055/index.html",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 39.80000000074506,
+      "navigationId": 4785,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.7000000011175871,
+      "domainLookupStart": 0.7000000011175871,
+      "domainLookupEnd": 0.7000000011175871,
+      "connectStart": 0.7000000011175871,
+      "secureConnectionStart": 0,
+      "connectEnd": 0.7000000011175871,
+      "requestStart": 1.700000001117587,
+      "responseStart": 2.700000001117587,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 2.700000001117587,
+      "responseEnd": 3,
+      "transferSize": 8657,
+      "encodedBodySize": 8357,
+      "decodedBodySize": 8357,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 12.100000001490116,
+      "domContentLoadedEventStart": 21.40000000037253,
+      "domContentLoadedEventEnd": 22.90000000037253,
+      "domComplete": 39.80000000074506,
+      "loadEventStart": 39.80000000074506,
+      "loadEventEnd": 39.80000000074506,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "resources": [
+      {
+        "name": "fonts.css",
+        "bytes": 3807,
+        "duration": 6.400000000372529
+      },
+      {
+        "name": "styles.css",
+        "bytes": 15857,
+        "duration": 9
+      },
+      {
+        "name": "lab5.css",
+        "bytes": 5425,
+        "duration": 9.799999998882413
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 1840,
+        "duration": 10.5
+      },
+      {
+        "name": "app.js",
+        "bytes": 3482,
+        "duration": 9.199999999254942
+      },
+      {
+        "name": "lab4.js",
+        "bytes": 8110,
+        "duration": 10.300000000745058
+      },
+      {
+        "name": "font-11.woff2",
+        "bytes": 38256,
+        "duration": 4.199999999254942
+      },
+      {
+        "name": "font-2.woff2",
+        "bytes": 14800,
+        "duration": 5.200000001117587
+      },
+      {
+        "name": "font-6.woff2",
+        "bytes": 25136,
+        "duration": 5.5
+      },
+      {
+        "name": "font-8.woff2",
+        "bytes": 24128,
+        "duration": 36.30000000074506
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 0,
+        "duration": 0.7999999988824129
+      }
+    ],
+    "events": [
+      {
+        "name": "keydown",
+        "duration": 16,
+        "interactionId": 6163
+      },
+      {
+        "name": "keyup",
+        "duration": 16,
+        "interactionId": 6163
+      }
+    ],
+    "cdp": {
+      "JSHeapUsedSize": 2857404,
+      "JSHeapTotalSize": 4046848,
+      "ScriptDuration": 0.00257,
+      "TaskDuration": 0.121053,
+      "Nodes": 423,
+      "Documents": 4,
+      "LayoutCount": 4
+    }
+  },
+  {
+    "file": "topics.html",
+    "browser": "155.0.8059.80",
+    "viewport": "1366x768",
+    "wallMs": 1134,
+    "checks": {
+      "search": true,
+      "accordion": true
+    },
+    "navigation": {
+      "name": "http://127.0.0.1:8055/topics.html",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 72.10000000149012,
+      "navigationId": 6386,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.30000000074505806,
+      "domainLookupStart": 0.30000000074505806,
+      "domainLookupEnd": 0.30000000074505806,
+      "connectStart": 0.30000000074505806,
+      "secureConnectionStart": 0,
+      "connectEnd": 0.30000000074505806,
+      "requestStart": 0.900000000372529,
+      "responseStart": 2.300000000745058,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 2.300000000745058,
+      "responseEnd": 3.200000001117587,
+      "transferSize": 8001,
+      "encodedBodySize": 7701,
+      "decodedBodySize": 7701,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 11.100000001490116,
+      "domContentLoadedEventStart": 47.5,
+      "domContentLoadedEventEnd": 49.20000000111759,
+      "domComplete": 72,
+      "loadEventStart": 72.10000000149012,
+      "loadEventEnd": 72.10000000149012,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "name": "fonts.css",
+        "bytes": 3807,
+        "duration": 5.300000000745058
+      },
+      {
+        "name": "lab5.css",
+        "bytes": 5425,
+        "duration": 6.900000000372529
+      },
+      {
+        "name": "styles.css",
+        "bytes": 15857,
+        "duration": 7.700000001117587
+      },
+      {
+        "name": "app.js",
+        "bytes": 3482,
+        "duration": 7.300000000745058
+      },
+      {
+        "name": "lab4.js",
+        "bytes": 8110,
+        "duration": 8.100000001490116
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 1840,
+        "duration": 8.899999998509884
+      },
+      {
+        "name": "font-11.woff2",
+        "bytes": 38256,
+        "duration": 39.40000000037253
+      },
+      {
+        "name": "font-2.woff2",
+        "bytes": 14800,
+        "duration": 39.899999998509884
+      },
+      {
+        "name": "font-6.woff2",
+        "bytes": 25136,
+        "duration": 41.79999999888241
+      },
+      {
+        "name": "font-8.woff2",
+        "bytes": 24128,
+        "duration": 31.90000000037253
+      },
+      {
+        "name": "topic-1-360.webp",
+        "bytes": 25064,
+        "duration": 3.200000001117587
+      },
+      {
+        "name": "topic-2-360.webp",
+        "bytes": 13694,
+        "duration": 6.200000001117587
+      },
+      {
+        "name": "topic-4-360.webp",
+        "bytes": 15094,
+        "duration": 6.800000000745058
+      },
+      {
+        "name": "topic-3-360.webp",
+        "bytes": 12004,
+        "duration": 7
+      },
+      {
+        "name": "topic-5-360.webp",
+        "bytes": 24880,
+        "duration": 8.699999999254942
+      },
+      {
+        "name": "topic-6-360.webp",
+        "bytes": 35414,
+        "duration": 13
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 0,
+        "duration": 1
+      }
+    ],
+    "events": [],
+    "cdp": {
+      "JSHeapUsedSize": 2440028,
+      "JSHeapTotalSize": 3465216,
+      "ScriptDuration": 0.002753,
+      "TaskDuration": 0.125279,
+      "Nodes": 432,
+      "Documents": 4,
+      "LayoutCount": 18
+    }
+  },
+  {
+    "file": "feedback.html",
+    "browser": "155.0.8059.80",
+    "viewport": "1366x768",
+    "wallMs": 901,
+    "checks": {},
+    "navigation": {
+      "name": "http://127.0.0.1:8055/feedback.html",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 64.20000000111759,
+      "navigationId": 4148,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.40000000037252903,
+      "domainLookupStart": 0.40000000037252903,
+      "domainLookupEnd": 0.40000000037252903,
+      "connectStart": 0.40000000037252903,
+      "secureConnectionStart": 0,
+      "connectEnd": 0.40000000037252903,
+      "requestStart": 1,
+      "responseStart": 1.700000001117587,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 1.700000001117587,
+      "responseEnd": 2.599999999627471,
+      "transferSize": 4918,
+      "encodedBodySize": 4618,
+      "decodedBodySize": 4618,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 11.700000001117587,
+      "domContentLoadedEventStart": 19.300000000745058,
+      "domContentLoadedEventEnd": 20.700000001117587,
+      "domComplete": 64.20000000111759,
+      "loadEventStart": 64.20000000111759,
+      "loadEventEnd": 64.20000000111759,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "name": "fonts.css",
+        "bytes": 3807,
+        "duration": 6.399999998509884
+      },
+      {
+        "name": "lab5.css",
+        "bytes": 5425,
+        "duration": 8.699999999254942
+      },
+      {
+        "name": "styles.css",
+        "bytes": 15857,
+        "duration": 9.199999999254942
+      },
+      {
+        "name": "app.js",
+        "bytes": 3482,
+        "duration": 9
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 1840,
+        "duration": 11.200000001117587
+      },
+      {
+        "name": "lab4.js",
+        "bytes": 8110,
+        "duration": 9.700000001117587
+      },
+      {
+        "name": "font-6.woff2",
+        "bytes": 25136,
+        "duration": 26
+      },
+      {
+        "name": "font-11.woff2",
+        "bytes": 38256,
+        "duration": 27.199999999254942
+      },
+      {
+        "name": "font-2.woff2",
+        "bytes": 14800,
+        "duration": 20.800000000745058
+      },
+      {
+        "name": "font-8.woff2",
+        "bytes": 24128,
+        "duration": 15.400000000372529
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 0,
+        "duration": 0.6999999992549419
+      }
+    ],
+    "events": [],
+    "cdp": {
+      "JSHeapUsedSize": 1413648,
+      "JSHeapTotalSize": 2359296,
+      "ScriptDuration": 0.001376,
+      "TaskDuration": 0.062996,
+      "Nodes": 257,
+      "Documents": 4,
+      "LayoutCount": 8
+    }
+  },
+  {
+    "file": "lab3.html",
+    "browser": "155.0.8059.80",
+    "viewport": "1366x768",
+    "wallMs": 924,
+    "checks": {},
+    "navigation": {
+      "name": "http://127.0.0.1:8055/lab3.html",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 70.80000000074506,
+      "navigationId": 9332,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.40000000037252903,
+      "domainLookupStart": 0.40000000037252903,
+      "domainLookupEnd": 0.40000000037252903,
+      "connectStart": 0.40000000037252903,
+      "secureConnectionStart": 0,
+      "connectEnd": 0.40000000037252903,
+      "requestStart": 0.900000000372529,
+      "responseStart": 1.5,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 1.5,
+      "responseEnd": 2,
+      "transferSize": 6647,
+      "encodedBodySize": 6347,
+      "decodedBodySize": 6347,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 9.800000000745058,
+      "domContentLoadedEventStart": 44.09999999962747,
+      "domContentLoadedEventEnd": 51.40000000037253,
+      "domComplete": 70.80000000074506,
+      "loadEventStart": 70.80000000074506,
+      "loadEventEnd": 70.80000000074506,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "low"
+      }
+    },
+    "resources": [
+      {
+        "name": "fonts.css",
+        "bytes": 3807,
+        "duration": 6.099999999627471
+      },
+      {
+        "name": "styles.css",
+        "bytes": 15857,
+        "duration": 7.800000000745058
+      },
+      {
+        "name": "lab5.css",
+        "bytes": 5425,
+        "duration": 8
+      },
+      {
+        "name": "app.js",
+        "bytes": 3482,
+        "duration": 8.099999999627471
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 1840,
+        "duration": 9.199999999254942
+      },
+      {
+        "name": "lab3.js",
+        "bytes": 17463,
+        "duration": 9
+      },
+      {
+        "name": "font-6.woff2",
+        "bytes": 25136,
+        "duration": 26.40000000037253
+      },
+      {
+        "name": "font-11.woff2",
+        "bytes": 38256,
+        "duration": 25.90000000037253
+      },
+      {
+        "name": "font-2.woff2",
+        "bytes": 14800,
+        "duration": 22.5
+      },
+      {
+        "name": "font-8.woff2",
+        "bytes": 24128,
+        "duration": 18.800000000745058
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 0,
+        "duration": 0.6000000014901161
+      }
+    ],
+    "events": [],
+    "cdp": {
+      "JSHeapUsedSize": 1422716,
+      "JSHeapTotalSize": 2883584,
+      "ScriptDuration": 0.007511,
+      "TaskDuration": 0.077566,
+      "Nodes": 905,
+      "Documents": 6,
+      "LayoutCount": 5
+    }
+  },
+  {
+    "file": "auth.html",
+    "browser": "155.0.8059.80",
+    "viewport": "1366x768",
+    "wallMs": 964,
+    "checks": {
+      "registration": true,
+      "authActions": true
+    },
+    "navigation": {
+      "name": "http://127.0.0.1:8055/auth.html",
+      "entryType": "navigation",
+      "startTime": 0,
+      "duration": 64.10000000149012,
+      "navigationId": 5382,
+      "initiatorType": "navigation",
+      "deliveryType": "",
+      "nextHopProtocol": "http/1.0",
+      "renderBlockingStatus": "non-blocking",
+      "contentType": "text/html",
+      "contentEncoding": "",
+      "workerStart": 0,
+      "workerRouterEvaluationStart": 0,
+      "workerCacheLookupStart": 0,
+      "workerMatchedSourceType": "",
+      "workerFinalSourceType": "",
+      "redirectStart": 0,
+      "redirectEnd": 0,
+      "fetchStart": 0.40000000037252903,
+      "domainLookupStart": 0.40000000037252903,
+      "domainLookupEnd": 0.40000000037252903,
+      "connectStart": 0.40000000037252903,
+      "secureConnectionStart": 0,
+      "connectEnd": 0.40000000037252903,
+      "requestStart": 0.900000000372529,
+      "responseStart": 2,
+      "firstInterimResponseStart": 0,
+      "finalResponseHeadersStart": 2,
+      "responseEnd": 2.600000001490116,
+      "transferSize": 3857,
+      "encodedBodySize": 3557,
+      "decodedBodySize": 3557,
+      "responseStatus": 200,
+      "serverTiming": [],
+      "unloadEventStart": 0,
+      "unloadEventEnd": 0,
+      "domInteractive": 11.900000000372529,
+      "domContentLoadedEventStart": 36.70000000111759,
+      "domContentLoadedEventEnd": 38.20000000111759,
+      "domComplete": 64,
+      "loadEventStart": 64.10000000149012,
+      "loadEventEnd": 64.10000000149012,
+      "type": "navigate",
+      "redirectCount": 0,
+      "activationStart": 0,
+      "criticalCHRestart": 0,
+      "notRestoredReasons": null,
+      "confidence": {
+        "randomizedTriggerRate": 0.4994798,
+        "value": "high"
+      }
+    },
+    "resources": [
+      {
+        "name": "fonts.css",
+        "bytes": 3807,
+        "duration": 5.699999999254942
+      },
+      {
+        "name": "styles.css",
+        "bytes": 15857,
+        "duration": 7.200000001117587
+      },
+      {
+        "name": "lab5.css",
+        "bytes": 5425,
+        "duration": 7.399999998509884
+      },
+      {
+        "name": "app.js",
+        "bytes": 3482,
+        "duration": 7.799999998882413
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 1840,
+        "duration": 8
+      },
+      {
+        "name": "font-11.woff2",
+        "bytes": 38256,
+        "duration": 22.90000000037253
+      },
+      {
+        "name": "font-2.woff2",
+        "bytes": 14800,
+        "duration": 24.699999999254942
+      },
+      {
+        "name": "font-6.woff2",
+        "bytes": 25136,
+        "duration": 24.90000000037253
+      },
+      {
+        "name": "font-8.woff2",
+        "bytes": 24128,
+        "duration": 13.900000000372529
+      },
+      {
+        "name": "logo.webp",
+        "bytes": 0,
+        "duration": 0.7000000011175871
+      }
+    ],
+    "events": [
+      {
+        "name": "pointerdown",
+        "duration": 16,
+        "interactionId": 1478
+      },
+      {
+        "name": "pointerup",
+        "duration": 16,
+        "interactionId": 1478
+      },
+      {
+        "name": "click",
+        "duration": 16,
+        "interactionId": 1478
+      }
+    ],
+    "cdp": {
+      "JSHeapUsedSize": 2561632,
+      "JSHeapTotalSize": 3989504,
+      "ScriptDuration": 0.002683,
+      "TaskDuration": 0.086565,
+      "Nodes": 197,
+      "Documents": 4,
+      "LayoutCount": 10
+    }
+  }
+]

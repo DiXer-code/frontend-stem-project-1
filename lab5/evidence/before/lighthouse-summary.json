@@ -1,0 +1,767 @@
+[
+  {
+    "file": "index",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:21:21.347Z",
+    "categories": {
+      "performance": 83,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 3103.4163,
+        "display": "3.1 s"
+      },
+      "largest-contentful-paint": {
+        "value": 3756.8791499999998,
+        "display": "3.8 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.04965711476032348,
+        "display": "0.05"
+      },
+      "speed-index": {
+        "value": 3103.4163,
+        "display": "3.1 s"
+      },
+      "total-byte-weight": {
+        "value": 340591,
+        "display": "Total size was 333 KiB"
+      },
+      "bootup-time": {
+        "value": 8.544,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 675.7840000000009,
+        "display": "0.7 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.46,
+        "display": "3.1 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.56,
+        "display": "3.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.93,
+        "display": "3.1 s"
+      },
+      {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "score": 0.99,
+        "display": "0.05"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.9,
+        "display": "3.8 s"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 10 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 5 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "display": "Est savings of 203 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 2,370 ms"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "file": "index",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:21:29.200Z",
+    "categories": {
+      "performance": 99,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 819.496,
+        "display": "0.8 s"
+      },
+      "largest-contentful-paint": {
+        "value": 859.496,
+        "display": "0.9 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.002643711687637644,
+        "display": "0.003"
+      },
+      "speed-index": {
+        "value": 827.5317796670171,
+        "display": "0.8 s"
+      },
+      "total-byte-weight": {
+        "value": 340591,
+        "display": "Total size was 333 KiB"
+      },
+      "bootup-time": {
+        "value": 1.7830000000000001,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 183.10100000000025,
+        "display": "0.2 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.94,
+        "display": "0.8 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.97,
+        "display": "0.9 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.99,
+        "display": "0.8 s"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 11 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 5 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "display": "Est savings of 203 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 620 ms"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "file": "topics",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:21:37.079Z",
+    "categories": {
+      "performance": 54,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 3206.7556,
+        "display": "3.2 s"
+      },
+      "largest-contentful-paint": {
+        "value": 4579.063099999999,
+        "display": "4.6 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.7341092041312273,
+        "display": "0.734"
+      },
+      "speed-index": {
+        "value": 3206.7556,
+        "display": "3.2 s"
+      },
+      "total-byte-weight": {
+        "value": 662932,
+        "display": "Total size was 647 KiB"
+      },
+      "bootup-time": {
+        "value": 7.364000000000001,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 619.9560000000002,
+        "display": "0.6 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.43,
+        "display": "3.2 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.35,
+        "display": "4.6 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.92,
+        "display": "3.2 s"
+      },
+      {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "score": 0.06,
+        "display": "0.734"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.81,
+        "display": "4.6 s"
+      },
+      {
+        "id": "layout-shifts",
+        "title": "Avoid large layout shifts",
+        "score": 0,
+        "display": "2 layout shifts found"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 10 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "cls-culprits-insight",
+        "title": "Layout shift culprits",
+        "score": 0
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 4 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "display": "Est savings of 321 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 2,500 ms"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "file": "topics",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:21:45.642Z",
+    "categories": {
+      "performance": 79,
+      "accessibility": 96,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 857.661,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 1215.391,
+        "display": "1.2 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.3642328842473087,
+        "display": "0.364"
+      },
+      "speed-index": {
+        "value": 857.661,
+        "display": "0.9 s"
+      },
+      "total-byte-weight": {
+        "value": 662932,
+        "display": "Total size was 647 KiB"
+      },
+      "bootup-time": {
+        "value": 0.9750000000000001,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 118.37599999999998,
+        "display": "0.1 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.93,
+        "display": "0.9 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.89,
+        "display": "1.2 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.99,
+        "display": "0.9 s"
+      },
+      {
+        "id": "cumulative-layout-shift",
+        "title": "Cumulative Layout Shift",
+        "score": 0.29,
+        "display": "0.364"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "layout-shifts",
+        "title": "Avoid large layout shifts",
+        "score": 0,
+        "display": "2 layout shifts found"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 11 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "cls-culprits-insight",
+        "title": "Layout shift culprits",
+        "score": 0
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 4 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "display": "Est savings of 465 KiB"
+      },
+      {
+        "id": "lcp-discovery-insight",
+        "title": "LCP request discovery",
+        "score": 0
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 680 ms"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "file": "feedback",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:21:53.190Z",
+    "categories": {
+      "performance": 83,
+      "accessibility": 95,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 3138.5933999999997,
+        "display": "3.1 s"
+      },
+      "largest-contentful-paint": {
+        "value": 3753.4084,
+        "display": "3.8 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.004601437029131861,
+        "display": "0.005"
+      },
+      "speed-index": {
+        "value": 3138.5933999999997,
+        "display": "3.1 s"
+      },
+      "total-byte-weight": {
+        "value": 336955,
+        "display": "Total size was 329 KiB"
+      },
+      "bootup-time": {
+        "value": 8.804000000000002,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 512.2520000000003,
+        "display": "0.5 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.45,
+        "display": "3.1 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.56,
+        "display": "3.8 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.92,
+        "display": "3.1 s"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "interactive",
+        "title": "Time to Interactive",
+        "score": 0.9,
+        "display": "3.8 s"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 11 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 3 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0,
+        "display": "Est savings of 203 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 2,470 ms"
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "file": "feedback",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "time": "2026-10-19T14:22:00.621Z",
+    "categories": {
+      "performance": 98,
+      "accessibility": 95,
+      "best-practices": 96,
+      "seo": 91
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 887.1765,
+        "display": "0.9 s"
+      },
+      "largest-contentful-paint": {
+        "value": 887.1765,
+        "display": "0.9 s"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.0001151230435121291,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 887.1765,
+        "display": "0.9 s"
+      },
+      "total-byte-weight": {
+        "value": 336955,
+        "display": "Total size was 329 KiB"
+      },
+      "bootup-time": {
+        "value": 1.069,
+        "display": "0.0 s"
+      },
+      "mainthread-work-breakdown": {
+        "value": 122.72800000000005,
+        "display": "0.1 s"
+      }
+    },
+    "issues": [
+      {
+        "id": "first-contentful-paint",
+        "title": "First Contentful Paint",
+        "score": 0.92,
+        "display": "0.9 s"
+      },
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "score": 0.97,
+        "display": "0.9 s"
+      },
+      {
+        "id": "speed-index",
+        "title": "Speed Index",
+        "score": 0.98,
+        "display": "0.9 s"
+      },
+      {
+        "id": "errors-in-console",
+        "title": "Browser errors were logged to the console",
+        "score": 0
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors do not have a sufficient contrast ratio.",
+        "score": 0
+      },
+      {
+        "id": "unused-css-rules",
+        "title": "Reduce unused CSS",
+        "score": 0,
+        "display": "Est savings of 11 KiB"
+      },
+      {
+        "id": "meta-description",
+        "title": "Document does not have a meta description",
+        "score": 0
+      },
+      {
+        "id": "cache-insight",
+        "title": "Use efficient cache lifetimes",
+        "score": 0,
+        "display": "Est savings of 229 KiB"
+      },
+      {
+        "id": "document-latency-insight",
+        "title": "Document request latency",
+        "score": 0.5,
+        "display": "Est savings of 3 KiB"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "score": 0.5,
+        "display": "Est savings of 203 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree",
+        "score": 0
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render-blocking requests",
+        "score": 0,
+        "display": "Est savings of 710 ms"
+      }
+    ],
+    "warnings": []
+  }
+]

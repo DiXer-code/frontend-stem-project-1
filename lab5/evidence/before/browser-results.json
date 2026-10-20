@@ -1,0 +1,4022 @@
+[
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 491,
+    "viewport": 320,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 165.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 165.78125,
+        "width": 69.71875,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 165.78125,
+        "width": 74.546875,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 165.78125,
+        "width": 92.078125,
+        "height": 44.78125
+      },
+      {
+        "text": "Мета порталу",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "text": "Програма",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 165.78125,
+        "width": 92.078125,
+        "height": 44.78125
+      },
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 320,
+      "bottom": 180.78125,
+      "width": 320,
+      "height": 180.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 180.78125,
+      "right": 306,
+      "bottom": 2437.578125,
+      "width": 292,
+      "height": 2256.796875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 290,
+        "scroll": 732
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 320,
+    "viewport": 320,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 167.78125,
+        "width": 69.71875,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 167.78125,
+        "width": 74.546875,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 320,
+      "bottom": 182.78125,
+      "width": 320,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 440.390625,
+      "right": 306,
+      "bottom": 4420.6875,
+      "width": 292,
+      "height": 3980.296875
+    },
+    "columns": "292px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 342,
+    "viewport": 320,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 167.78125,
+        "width": 69.71875,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 167.78125,
+        "width": 74.546875,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 320,
+      "bottom": 182.78125,
+      "width": 320,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 182.78125,
+      "right": 306,
+      "bottom": 1455.640625,
+      "width": 292,
+      "height": 1272.859375
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "failure": "locator.check: Clicking the checkbox did not change its state"
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 320,
+    "viewport": 320,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 165.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 116.046875,
+        "bottom": 165.78125,
+        "width": 33.9375,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 128.046875,
+        "y": 121,
+        "right": 202.59375,
+        "bottom": 165.78125,
+        "width": 74.546875,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 214.59375,
+        "y": 121,
+        "right": 306.671875,
+        "bottom": 165.78125,
+        "width": 92.078125,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 320,
+      "bottom": 180.78125,
+      "width": 320,
+      "height": 180.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 180.78125,
+      "right": 306,
+      "bottom": 1166.109375,
+      "width": 292,
+      "height": 985.328125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 320,
+    "height": 568,
+    "scrollWidth": 902,
+    "viewport": 320,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 167.78125,
+        "width": 69.71875,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 167.78125,
+        "width": 74.546875,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      },
+      {
+        "tag": "SECTION",
+        "cls": "page-intro",
+        "x": 14,
+        "y": 214.78125,
+        "right": 901.734375,
+        "bottom": 341.171875,
+        "width": 887.734375,
+        "height": 126.390625
+      },
+      {
+        "tag": "P",
+        "cls": "eyebrow",
+        "x": 14,
+        "y": 214.78125,
+        "right": 901.734375,
+        "bottom": 235.578125,
+        "width": 887.734375,
+        "height": 20.796875
+      },
+      {
+        "tag": "H1",
+        "cls": "",
+        "x": 14,
+        "y": 251.578125,
+        "right": 901.734375,
+        "bottom": 287.578125,
+        "width": 887.734375,
+        "height": 36
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "x": 14,
+        "y": 299.578125,
+        "right": 901.734375,
+        "bottom": 325.171875,
+        "width": 887.734375,
+        "height": 25.59375
+      },
+      {
+        "tag": "SECTION",
+        "cls": "lab-section",
+        "x": 14,
+        "y": 373.171875,
+        "right": 901.734375,
+        "bottom": 1578.828125,
+        "width": 887.734375,
+        "height": 1205.65625
+      },
+      {
+        "tag": "DIV",
+        "cls": "lab-heading",
+        "x": 31,
+        "y": 396.171875,
+        "right": 884.734375,
+        "bottom": 542.765625,
+        "width": 853.734375,
+        "height": 146.59375
+      },
+      {
+        "tag": "DIV",
+        "cls": "button-row lab-actions",
+        "x": 31,
+        "y": 497.765625,
+        "right": 463.71875,
+        "bottom": 542.765625,
+        "width": 432.71875,
+        "height": 45
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 320,
+      "bottom": 182.78125,
+      "width": 320,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 182.78125,
+      "right": 306,
+      "bottom": 2708.734375,
+      "width": 292,
+      "height": 2525.953125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 854,
+        "scroll": 854
+      },
+      {
+        "width": 854,
+        "scroll": 854
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 491,
+    "viewport": 375,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 165.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 165.78125,
+        "width": 69.71875,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 165.78125,
+        "width": 74.546875,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 165.78125,
+        "width": 92.078125,
+        "height": 44.78125
+      },
+      {
+        "text": "Мета порталу",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "text": "Програма",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 375,
+      "bottom": 180.78125,
+      "width": 375,
+      "height": 180.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 180.78125,
+      "right": 361,
+      "bottom": 2328.796875,
+      "width": 347,
+      "height": 2148.015625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 345,
+        "scroll": 732
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 375,
+    "viewport": 375,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 156.265625,
+        "bottom": 167.78125,
+        "width": 74.15625,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 168.265625,
+        "y": 121,
+        "right": 256.921875,
+        "bottom": 167.78125,
+        "width": 88.65625,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 268.921875,
+        "y": 121,
+        "right": 361,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 375,
+      "bottom": 182.78125,
+      "width": 375,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 440.390625,
+      "right": 361,
+      "bottom": 4223.9375,
+      "width": 347,
+      "height": 3783.546875
+    },
+    "columns": "347px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 375,
+    "viewport": 375,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 156.265625,
+        "bottom": 167.78125,
+        "width": 74.15625,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 168.265625,
+        "y": 121,
+        "right": 256.921875,
+        "bottom": 167.78125,
+        "width": 88.65625,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 268.921875,
+        "y": 121,
+        "right": 361,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 375,
+      "bottom": 182.78125,
+      "width": 375,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 182.78125,
+      "right": 361,
+      "bottom": 1394.046875,
+      "width": 347,
+      "height": 1211.265625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "failure": "locator.check: Clicking the checkbox did not change its state"
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 375,
+    "viewport": 375,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 165.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 116.046875,
+        "bottom": 165.78125,
+        "width": 33.9375,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 128.046875,
+        "y": 121,
+        "right": 242.328125,
+        "bottom": 165.78125,
+        "width": 114.28125,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 254.328125,
+        "y": 121,
+        "right": 361,
+        "bottom": 165.78125,
+        "width": 106.671875,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 375,
+      "bottom": 180.78125,
+      "width": 375,
+      "height": 180.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 180.78125,
+      "right": 361,
+      "bottom": 1166.109375,
+      "width": 347,
+      "height": 985.328125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 375,
+    "height": 812,
+    "scrollWidth": 902,
+    "viewport": 375,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 167.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 156.265625,
+        "bottom": 167.78125,
+        "width": 74.15625,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 168.265625,
+        "y": 121,
+        "right": 256.921875,
+        "bottom": 167.78125,
+        "width": 88.65625,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 268.921875,
+        "y": 121,
+        "right": 361,
+        "bottom": 167.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "SECTION",
+        "cls": "page-intro",
+        "x": 14,
+        "y": 214.78125,
+        "right": 901.734375,
+        "bottom": 341.171875,
+        "width": 887.734375,
+        "height": 126.390625
+      },
+      {
+        "tag": "P",
+        "cls": "eyebrow",
+        "x": 14,
+        "y": 214.78125,
+        "right": 901.734375,
+        "bottom": 235.578125,
+        "width": 887.734375,
+        "height": 20.796875
+      },
+      {
+        "tag": "H1",
+        "cls": "",
+        "x": 14,
+        "y": 251.578125,
+        "right": 901.734375,
+        "bottom": 287.578125,
+        "width": 887.734375,
+        "height": 36
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "x": 14,
+        "y": 299.578125,
+        "right": 901.734375,
+        "bottom": 325.171875,
+        "width": 887.734375,
+        "height": 25.59375
+      },
+      {
+        "tag": "SECTION",
+        "cls": "lab-section",
+        "x": 14,
+        "y": 373.171875,
+        "right": 901.734375,
+        "bottom": 1578.828125,
+        "width": 887.734375,
+        "height": 1205.65625
+      },
+      {
+        "tag": "DIV",
+        "cls": "lab-heading",
+        "x": 31,
+        "y": 396.171875,
+        "right": 884.734375,
+        "bottom": 542.765625,
+        "width": 853.734375,
+        "height": 146.59375
+      },
+      {
+        "tag": "DIV",
+        "cls": "button-row lab-actions",
+        "x": 31,
+        "y": 497.765625,
+        "right": 463.71875,
+        "bottom": 542.765625,
+        "width": 432.71875,
+        "height": 45
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "button button-light outline",
+        "x": 294.796875,
+        "y": 497.765625,
+        "right": 463.71875,
+        "bottom": 542.765625,
+        "width": 168.921875,
+        "height": 45
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 375,
+      "bottom": 182.78125,
+      "width": 375,
+      "height": 182.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 182.78125,
+      "right": 361,
+      "bottom": 2708.734375,
+      "width": 347,
+      "height": 2525.953125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 854,
+        "scroll": 854
+      },
+      {
+        "width": 854,
+        "scroll": 854
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 491,
+    "viewport": 390,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 121,
+        "right": 70.109375,
+        "bottom": 165.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 121,
+        "right": 151.828125,
+        "bottom": 165.78125,
+        "width": 69.71875,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 163.828125,
+        "y": 121,
+        "right": 238.375,
+        "bottom": 165.78125,
+        "width": 74.546875,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 250.375,
+        "y": 121,
+        "right": 342.453125,
+        "bottom": 165.78125,
+        "width": 92.078125,
+        "height": 44.78125
+      },
+      {
+        "text": "Мета порталу",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "text": "Програма",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 354.453125,
+        "y": 121,
+        "right": 410.9375,
+        "bottom": 165.78125,
+        "width": 56.484375,
+        "height": 44.78125
+      },
+      {
+        "tag": "A",
+        "cls": "",
+        "x": 422.9375,
+        "y": 121,
+        "right": 491.0625,
+        "bottom": 165.78125,
+        "width": 68.125,
+        "height": 44.78125
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 390,
+      "bottom": 180.78125,
+      "width": 390,
+      "height": 180.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 180.78125,
+      "right": 376,
+      "bottom": 2300,
+      "width": 362,
+      "height": 2119.21875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 360,
+        "scroll": 732
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "viewport": 390,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 69,
+        "right": 70.109375,
+        "bottom": 115.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 69,
+        "right": 163.109375,
+        "bottom": 115.78125,
+        "width": 81,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 175.109375,
+        "y": 69,
+        "right": 271.921875,
+        "bottom": 115.78125,
+        "width": 96.8125,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 283.921875,
+        "y": 69,
+        "right": 376,
+        "bottom": 115.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 390,
+      "bottom": 130.78125,
+      "width": 390,
+      "height": 130.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 440.390625,
+      "right": 376,
+      "bottom": 4223.9375,
+      "width": 362,
+      "height": 3783.546875
+    },
+    "columns": "362px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "viewport": 390,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 69,
+        "right": 70.109375,
+        "bottom": 115.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 69,
+        "right": 163.109375,
+        "bottom": 115.78125,
+        "width": 81,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 175.109375,
+        "y": 69,
+        "right": 271.921875,
+        "bottom": 115.78125,
+        "width": 96.8125,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 283.921875,
+        "y": 69,
+        "right": 376,
+        "bottom": 115.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 390,
+      "bottom": 130.78125,
+      "width": 390,
+      "height": 130.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 130.78125,
+      "right": 376,
+      "bottom": 1342.046875,
+      "width": 362,
+      "height": 1211.265625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "failure": "locator.check: Clicking the checkbox did not change its state"
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 390,
+    "viewport": 390,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 69,
+        "right": 70.109375,
+        "bottom": 113.78125,
+        "width": 56.109375,
+        "height": 44.78125
+      },
+      {
+        "text": "Теми",
+        "x": 82.109375,
+        "y": 69,
+        "right": 116.046875,
+        "bottom": 113.78125,
+        "width": 33.9375,
+        "height": 44.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 128.046875,
+        "y": 69,
+        "right": 250.078125,
+        "bottom": 113.78125,
+        "width": 122.03125,
+        "height": 44.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 262.078125,
+        "y": 69,
+        "right": 376,
+        "bottom": 113.78125,
+        "width": 113.921875,
+        "height": 44.78125
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 390,
+      "bottom": 128.78125,
+      "width": 390,
+      "height": 128.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 128.78125,
+      "right": 376,
+      "bottom": 1114.109375,
+      "width": 362,
+      "height": 985.328125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 390,
+    "height": 844,
+    "scrollWidth": 902,
+    "viewport": 390,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 14,
+        "y": 69,
+        "right": 70.109375,
+        "bottom": 115.78125,
+        "width": 56.109375,
+        "height": 46.78125
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 82.109375,
+        "y": 69,
+        "right": 163.109375,
+        "bottom": 115.78125,
+        "width": 81,
+        "height": 46.78125
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 175.109375,
+        "y": 69,
+        "right": 271.921875,
+        "bottom": 115.78125,
+        "width": 96.8125,
+        "height": 46.78125
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 283.921875,
+        "y": 69,
+        "right": 376,
+        "bottom": 115.78125,
+        "width": 92.078125,
+        "height": 46.78125
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "SECTION",
+        "cls": "page-intro",
+        "x": 14,
+        "y": 162.78125,
+        "right": 901.734375,
+        "bottom": 289.171875,
+        "width": 887.734375,
+        "height": 126.390625
+      },
+      {
+        "tag": "P",
+        "cls": "eyebrow",
+        "x": 14,
+        "y": 162.78125,
+        "right": 901.734375,
+        "bottom": 183.578125,
+        "width": 887.734375,
+        "height": 20.796875
+      },
+      {
+        "tag": "H1",
+        "cls": "",
+        "x": 14,
+        "y": 199.578125,
+        "right": 901.734375,
+        "bottom": 235.578125,
+        "width": 887.734375,
+        "height": 36
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "x": 14,
+        "y": 247.578125,
+        "right": 901.734375,
+        "bottom": 273.171875,
+        "width": 887.734375,
+        "height": 25.59375
+      },
+      {
+        "tag": "SECTION",
+        "cls": "lab-section",
+        "x": 14,
+        "y": 321.171875,
+        "right": 901.734375,
+        "bottom": 1526.828125,
+        "width": 887.734375,
+        "height": 1205.65625
+      },
+      {
+        "tag": "DIV",
+        "cls": "lab-heading",
+        "x": 31,
+        "y": 344.171875,
+        "right": 884.734375,
+        "bottom": 490.765625,
+        "width": 853.734375,
+        "height": 146.59375
+      },
+      {
+        "tag": "DIV",
+        "cls": "button-row lab-actions",
+        "x": 31,
+        "y": 445.765625,
+        "right": 463.71875,
+        "bottom": 490.765625,
+        "width": 432.71875,
+        "height": 45
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "button button-light outline",
+        "x": 294.796875,
+        "y": 445.765625,
+        "right": 463.71875,
+        "bottom": 490.765625,
+        "width": 168.921875,
+        "height": 45
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 390,
+      "bottom": 130.78125,
+      "width": 390,
+      "height": 130.78125
+    },
+    "main": {
+      "x": 14,
+      "y": 130.78125,
+      "right": 376,
+      "bottom": 2656.734375,
+      "width": 362,
+      "height": 2525.953125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 854,
+        "scroll": 854
+      },
+      {
+        "width": 854,
+        "scroll": 854
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 768,
+    "height": 1024,
+    "scrollWidth": 768,
+    "viewport": 768,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 121,
+        "right": 84.125,
+        "bottom": 172.1875,
+        "width": 64.125,
+        "height": 51.1875
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 121,
+        "right": 220.234375,
+        "bottom": 172.1875,
+        "width": 118.109375,
+        "height": 51.1875
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 238.234375,
+        "y": 121,
+        "right": 379.421875,
+        "bottom": 172.1875,
+        "width": 141.1875,
+        "height": 51.1875
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 397.421875,
+        "y": 121,
+        "right": 529.203125,
+        "bottom": 172.1875,
+        "width": 131.78125,
+        "height": 51.1875
+      },
+      {
+        "text": "Мета порталу",
+        "x": 547.203125,
+        "y": 121,
+        "right": 652.140625,
+        "bottom": 172.1875,
+        "width": 104.9375,
+        "height": 51.1875
+      },
+      {
+        "text": "Програма",
+        "x": 670.140625,
+        "y": 121,
+        "right": 748,
+        "bottom": 172.1875,
+        "width": 77.859375,
+        "height": 51.1875
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 768,
+      "bottom": 187.1875,
+      "width": 768,
+      "height": 187.1875
+    },
+    "main": {
+      "x": 20,
+      "y": 187.1875,
+      "right": 748,
+      "bottom": 2057.328125,
+      "width": 728,
+      "height": 1870.140625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 726,
+        "scroll": 732
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 768,
+    "height": 1024,
+    "scrollWidth": 768,
+    "viewport": 768,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 768,
+      "bottom": 114.59375,
+      "width": 768,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 440.390625,
+      "right": 748,
+      "bottom": 4071.640625,
+      "width": 728,
+      "height": 3631.25
+    },
+    "columns": "728px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 768,
+    "height": 1024,
+    "scrollWidth": 768,
+    "viewport": 768,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 768,
+      "bottom": 114.59375,
+      "width": 768,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 34,
+      "y": 114.59375,
+      "right": 734,
+      "bottom": 1353.53125,
+      "width": 700,
+      "height": 1238.9375
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "feedback": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 768,
+    "height": 1024,
+    "scrollWidth": 768,
+    "viewport": 768,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 97.59375,
+        "width": 64.125,
+        "height": 25.59375
+      },
+      {
+        "text": "Теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 140.90625,
+        "bottom": 97.59375,
+        "width": 38.78125,
+        "height": 25.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 158.90625,
+        "y": 72,
+        "right": 304.140625,
+        "bottom": 97.59375,
+        "width": 145.234375,
+        "height": 25.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 322.140625,
+        "y": 72,
+        "right": 457.703125,
+        "bottom": 97.59375,
+        "width": 135.5625,
+        "height": 25.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 768,
+      "bottom": 112.59375,
+      "width": 768,
+      "height": 112.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 112.59375,
+      "right": 748,
+      "bottom": 1176.78125,
+      "width": 728,
+      "height": 1064.1875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 768,
+    "height": 1024,
+    "scrollWidth": 936,
+    "viewport": 768,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "SECTION",
+        "cls": "page-intro",
+        "x": 20,
+        "y": 172.59375,
+        "right": 935.734375,
+        "bottom": 299.84375,
+        "width": 915.734375,
+        "height": 127.25
+      },
+      {
+        "tag": "P",
+        "cls": "eyebrow",
+        "x": 20,
+        "y": 172.59375,
+        "right": 935.734375,
+        "bottom": 193.390625,
+        "width": 915.734375,
+        "height": 20.796875
+      },
+      {
+        "tag": "H1",
+        "cls": "",
+        "x": 20,
+        "y": 209.390625,
+        "right": 935.734375,
+        "bottom": 246.25,
+        "width": 915.734375,
+        "height": 36.859375
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "x": 20,
+        "y": 258.25,
+        "right": 935.734375,
+        "bottom": 283.84375,
+        "width": 915.734375,
+        "height": 25.59375
+      },
+      {
+        "tag": "SECTION",
+        "cls": "lab-section",
+        "x": 20,
+        "y": 331.84375,
+        "right": 935.734375,
+        "bottom": 1553.5,
+        "width": 915.734375,
+        "height": 1221.65625
+      },
+      {
+        "tag": "DIV",
+        "cls": "lab-heading",
+        "x": 51,
+        "y": 362.84375,
+        "right": 904.734375,
+        "bottom": 509.4375,
+        "width": 853.734375,
+        "height": 146.59375
+      },
+      {
+        "tag": "P",
+        "cls": "result-message",
+        "x": 51,
+        "y": 529.4375,
+        "right": 904.734375,
+        "bottom": 557.4375,
+        "width": 853.734375,
+        "height": 28
+      },
+      {
+        "tag": "DIV",
+        "cls": "button-row",
+        "x": 51,
+        "y": 1391.90625,
+        "right": 904.734375,
+        "bottom": 1436.90625,
+        "width": 853.734375,
+        "height": 45
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 768,
+      "bottom": 114.59375,
+      "width": 768,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 114.59375,
+      "right": 748,
+      "bottom": 2725.40625,
+      "width": 728,
+      "height": 2610.8125
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 854,
+        "scroll": 854
+      },
+      {
+        "width": 854,
+        "scroll": 854
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 820,
+    "height": 1180,
+    "scrollWidth": 820,
+    "viewport": 820,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 121,
+        "right": 84.125,
+        "bottom": 148.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 121,
+        "right": 223.625,
+        "bottom": 148.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 121,
+        "right": 386.859375,
+        "bottom": 148.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 121,
+        "right": 540.421875,
+        "bottom": 148.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      },
+      {
+        "text": "Мета порталу",
+        "x": 558.421875,
+        "y": 121,
+        "right": 666.375,
+        "bottom": 148.59375,
+        "width": 107.953125,
+        "height": 27.59375
+      },
+      {
+        "text": "Програма",
+        "x": 684.375,
+        "y": 121,
+        "right": 762.234375,
+        "bottom": 148.59375,
+        "width": 77.859375,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 820,
+      "bottom": 163.59375,
+      "width": 820,
+      "height": 163.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 163.59375,
+      "right": 800,
+      "bottom": 2037.484375,
+      "width": 780,
+      "height": 1873.890625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 778,
+        "scroll": 778
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 820,
+    "height": 1180,
+    "scrollWidth": 820,
+    "viewport": 820,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 820,
+      "bottom": 114.59375,
+      "width": 820,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 440.390625,
+      "right": 800,
+      "bottom": 4074.125,
+      "width": 780,
+      "height": 3633.734375
+    },
+    "columns": "780px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 820,
+    "height": 1180,
+    "scrollWidth": 820,
+    "viewport": 820,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 820,
+      "bottom": 114.59375,
+      "width": 820,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 60,
+      "y": 114.59375,
+      "right": 760,
+      "bottom": 1356.015625,
+      "width": 700,
+      "height": 1241.421875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "feedback": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 820,
+    "height": 1180,
+    "scrollWidth": 820,
+    "viewport": 820,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 97.59375,
+        "width": 64.125,
+        "height": 25.59375
+      },
+      {
+        "text": "Теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 140.90625,
+        "bottom": 97.59375,
+        "width": 38.78125,
+        "height": 25.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 158.90625,
+        "y": 72,
+        "right": 304.140625,
+        "bottom": 97.59375,
+        "width": 145.234375,
+        "height": 25.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 322.140625,
+        "y": 72,
+        "right": 457.703125,
+        "bottom": 97.59375,
+        "width": 135.5625,
+        "height": 25.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 820,
+      "bottom": 112.59375,
+      "width": 820,
+      "height": 112.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 112.59375,
+      "right": 800,
+      "bottom": 1179.265625,
+      "width": 780,
+      "height": 1066.671875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 820,
+    "height": 1180,
+    "scrollWidth": 936,
+    "viewport": 820,
+    "overflow": true,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 20,
+        "y": 72,
+        "right": 84.125,
+        "bottom": 99.59375,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 102.125,
+        "y": 72,
+        "right": 223.625,
+        "bottom": 99.59375,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 241.625,
+        "y": 72,
+        "right": 386.859375,
+        "bottom": 99.59375,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 404.859375,
+        "y": 72,
+        "right": 540.421875,
+        "bottom": 99.59375,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [
+      {
+        "tag": "SECTION",
+        "cls": "page-intro",
+        "x": 20,
+        "y": 172.59375,
+        "right": 935.734375,
+        "bottom": 302.328125,
+        "width": 915.734375,
+        "height": 129.734375
+      },
+      {
+        "tag": "P",
+        "cls": "eyebrow",
+        "x": 20,
+        "y": 172.59375,
+        "right": 935.734375,
+        "bottom": 193.390625,
+        "width": 915.734375,
+        "height": 20.796875
+      },
+      {
+        "tag": "H1",
+        "cls": "",
+        "x": 20,
+        "y": 209.390625,
+        "right": 935.734375,
+        "bottom": 248.734375,
+        "width": 915.734375,
+        "height": 39.34375
+      },
+      {
+        "tag": "P",
+        "cls": "",
+        "x": 20,
+        "y": 260.734375,
+        "right": 935.734375,
+        "bottom": 286.328125,
+        "width": 915.734375,
+        "height": 25.59375
+      },
+      {
+        "tag": "SECTION",
+        "cls": "lab-section",
+        "x": 20,
+        "y": 334.328125,
+        "right": 935.734375,
+        "bottom": 1555.984375,
+        "width": 915.734375,
+        "height": 1221.65625
+      },
+      {
+        "tag": "DIV",
+        "cls": "lab-heading",
+        "x": 51,
+        "y": 365.328125,
+        "right": 904.734375,
+        "bottom": 511.921875,
+        "width": 853.734375,
+        "height": 146.59375
+      },
+      {
+        "tag": "P",
+        "cls": "result-message",
+        "x": 51,
+        "y": 531.921875,
+        "right": 904.734375,
+        "bottom": 559.921875,
+        "width": 853.734375,
+        "height": 28
+      },
+      {
+        "tag": "DIV",
+        "cls": "button-row",
+        "x": 51,
+        "y": 1394.390625,
+        "right": 904.734375,
+        "bottom": 1439.390625,
+        "width": 853.734375,
+        "height": 45
+      }
+    ],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 820,
+      "bottom": 114.59375,
+      "width": 820,
+      "height": 114.59375
+    },
+    "main": {
+      "x": 20,
+      "y": 114.59375,
+      "right": 800,
+      "bottom": 2727.890625,
+      "width": 780,
+      "height": 2613.296875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 854,
+        "scroll": 854
+      },
+      {
+        "width": 854,
+        "scroll": 854
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 1024,
+    "height": 768,
+    "scrollWidth": 1024,
+    "viewport": 1024,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 255,
+        "y": 12.40625,
+        "right": 319.125,
+        "bottom": 63.59375,
+        "width": 64.125,
+        "height": 51.1875
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 337.125,
+        "y": 12.40625,
+        "right": 416.8125,
+        "bottom": 63.59375,
+        "width": 79.6875,
+        "height": 51.1875
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 434.8125,
+        "y": 12.40625,
+        "right": 520,
+        "bottom": 63.59375,
+        "width": 85.1875,
+        "height": 51.1875
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 538,
+        "y": 12.40625,
+        "right": 643.234375,
+        "bottom": 63.59375,
+        "width": 105.234375,
+        "height": 51.1875
+      },
+      {
+        "text": "Мета порталу",
+        "x": 661.234375,
+        "y": 12.40625,
+        "right": 725.796875,
+        "bottom": 63.59375,
+        "width": 64.5625,
+        "height": 51.1875
+      },
+      {
+        "text": "Програма",
+        "x": 743.796875,
+        "y": 12.40625,
+        "right": 821.65625,
+        "bottom": 63.59375,
+        "width": 77.859375,
+        "height": 51.1875
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1024,
+      "bottom": 77,
+      "width": 1024,
+      "height": 77
+    },
+    "main": {
+      "x": 20,
+      "y": 77,
+      "right": 1004,
+      "bottom": 1866.015625,
+      "width": 984,
+      "height": 1789.015625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 982,
+        "scroll": 982
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 1024,
+    "height": 768,
+    "scrollWidth": 1024,
+    "viewport": 1024,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 242.546875,
+        "y": 24.203125,
+        "right": 306.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 324.671875,
+        "y": 24.203125,
+        "right": 446.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 464.171875,
+        "y": 24.203125,
+        "right": 609.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 627.40625,
+        "y": 24.203125,
+        "right": 762.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1024,
+      "bottom": 77,
+      "width": 1024,
+      "height": 77
+    },
+    "main": {
+      "x": 20,
+      "y": 382.390625,
+      "right": 1004,
+      "bottom": 2025.890625,
+      "width": 984,
+      "height": 1643.5
+    },
+    "columns": "314.656px 314.672px 314.656px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 1024,
+    "height": 768,
+    "scrollWidth": 1024,
+    "viewport": 1024,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 242.546875,
+        "y": 24.203125,
+        "right": 306.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 324.671875,
+        "y": 24.203125,
+        "right": 446.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 464.171875,
+        "y": 24.203125,
+        "right": 609.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 627.40625,
+        "y": 24.203125,
+        "right": 762.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1024,
+      "bottom": 77,
+      "width": 1024,
+      "height": 77
+    },
+    "main": {
+      "x": 162,
+      "y": 77,
+      "right": 862,
+      "bottom": 1328.21875,
+      "width": 700,
+      "height": 1251.21875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "failure": "locator.check: Clicking the checkbox did not change its state"
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 1024,
+    "height": 768,
+    "scrollWidth": 1024,
+    "viewport": 1024,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 242.546875,
+        "y": 25.203125,
+        "right": 306.671875,
+        "bottom": 50.796875,
+        "width": 64.125,
+        "height": 25.59375
+      },
+      {
+        "text": "Теми",
+        "x": 324.671875,
+        "y": 25.203125,
+        "right": 363.453125,
+        "bottom": 50.796875,
+        "width": 38.78125,
+        "height": 25.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 381.453125,
+        "y": 25.203125,
+        "right": 526.6875,
+        "bottom": 50.796875,
+        "width": 145.234375,
+        "height": 25.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 544.6875,
+        "y": 25.203125,
+        "right": 680.25,
+        "bottom": 50.796875,
+        "width": 135.5625,
+        "height": 25.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1024,
+      "bottom": 77,
+      "width": 1024,
+      "height": 77
+    },
+    "main": {
+      "x": 62,
+      "y": 77,
+      "right": 962,
+      "bottom": 767.5,
+      "width": 900,
+      "height": 690.5
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 1024,
+    "height": 768,
+    "scrollWidth": 1024,
+    "viewport": 1024,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 242.546875,
+        "y": 24.203125,
+        "right": 306.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 324.671875,
+        "y": 24.203125,
+        "right": 446.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 464.171875,
+        "y": 24.203125,
+        "right": 609.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 627.40625,
+        "y": 24.203125,
+        "right": 762.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1024,
+      "bottom": 77,
+      "width": 1024,
+      "height": 77
+    },
+    "main": {
+      "x": 20,
+      "y": 77,
+      "right": 1004,
+      "bottom": 2361.515625,
+      "width": 984,
+      "height": 2284.515625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 922,
+        "scroll": 922
+      },
+      {
+        "width": 922,
+        "scroll": 922
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 1366,
+    "height": 768,
+    "scrollWidth": 1366,
+    "viewport": 1366,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 358,
+        "y": 12.40625,
+        "right": 422.125,
+        "bottom": 63.59375,
+        "width": 64.125,
+        "height": 51.1875
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 440.125,
+        "y": 12.40625,
+        "right": 547.9375,
+        "bottom": 63.59375,
+        "width": 107.8125,
+        "height": 51.1875
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 565.9375,
+        "y": 12.40625,
+        "right": 694.796875,
+        "bottom": 63.59375,
+        "width": 128.859375,
+        "height": 51.1875
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 712.796875,
+        "y": 12.40625,
+        "right": 833.078125,
+        "bottom": 63.59375,
+        "width": 120.28125,
+        "height": 51.1875
+      },
+      {
+        "text": "Мета порталу",
+        "x": 851.078125,
+        "y": 12.40625,
+        "right": 946.859375,
+        "bottom": 63.59375,
+        "width": 95.78125,
+        "height": 51.1875
+      },
+      {
+        "text": "Програма",
+        "x": 964.859375,
+        "y": 12.40625,
+        "right": 1042.71875,
+        "bottom": 63.59375,
+        "width": 77.859375,
+        "height": 51.1875
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1366,
+      "bottom": 77,
+      "width": 1366,
+      "height": 77
+    },
+    "main": {
+      "x": 123,
+      "y": 77,
+      "right": 1243,
+      "bottom": 1843.5,
+      "width": 1120,
+      "height": 1766.5
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 1118,
+        "scroll": 1118
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 1366,
+    "height": 768,
+    "scrollWidth": 1366,
+    "viewport": 1366,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 345.546875,
+        "y": 24.203125,
+        "right": 409.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 427.671875,
+        "y": 24.203125,
+        "right": 549.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 567.171875,
+        "y": 24.203125,
+        "right": 712.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 730.40625,
+        "y": 24.203125,
+        "right": 865.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1366,
+      "bottom": 77,
+      "width": 1366,
+      "height": 77
+    },
+    "main": {
+      "x": 123,
+      "y": 382.390625,
+      "right": 1243,
+      "bottom": 2003.953125,
+      "width": 1120,
+      "height": 1621.5625
+    },
+    "columns": "360px 360px 360px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 1366,
+    "height": 768,
+    "scrollWidth": 1366,
+    "viewport": 1366,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 345.546875,
+        "y": 24.203125,
+        "right": 409.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 427.671875,
+        "y": 24.203125,
+        "right": 549.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 567.171875,
+        "y": 24.203125,
+        "right": 712.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 730.40625,
+        "y": 24.203125,
+        "right": 865.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1366,
+      "bottom": 77,
+      "width": 1366,
+      "height": 77
+    },
+    "main": {
+      "x": 333,
+      "y": 77,
+      "right": 1033,
+      "bottom": 1331.875,
+      "width": 700,
+      "height": 1254.875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "feedback": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 1366,
+    "height": 768,
+    "scrollWidth": 1366,
+    "viewport": 1366,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 345.546875,
+        "y": 25.203125,
+        "right": 409.671875,
+        "bottom": 50.796875,
+        "width": 64.125,
+        "height": 25.59375
+      },
+      {
+        "text": "Теми",
+        "x": 427.671875,
+        "y": 25.203125,
+        "right": 466.453125,
+        "bottom": 50.796875,
+        "width": 38.78125,
+        "height": 25.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 484.453125,
+        "y": 25.203125,
+        "right": 629.6875,
+        "bottom": 50.796875,
+        "width": 145.234375,
+        "height": 25.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 647.6875,
+        "y": 25.203125,
+        "right": 783.25,
+        "bottom": 50.796875,
+        "width": 135.5625,
+        "height": 25.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1366,
+      "bottom": 77,
+      "width": 1366,
+      "height": 77
+    },
+    "main": {
+      "x": 233,
+      "y": 77,
+      "right": 1133,
+      "bottom": 771.15625,
+      "width": 900,
+      "height": 694.15625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 1366,
+    "height": 768,
+    "scrollWidth": 1366,
+    "viewport": 1366,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 345.546875,
+        "y": 24.203125,
+        "right": 409.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 427.671875,
+        "y": 24.203125,
+        "right": 549.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 567.171875,
+        "y": 24.203125,
+        "right": 712.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 730.40625,
+        "y": 24.203125,
+        "right": 865.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1366,
+      "bottom": 77,
+      "width": 1366,
+      "height": 77
+    },
+    "main": {
+      "x": 123,
+      "y": 77,
+      "right": 1243,
+      "bottom": 2157.21875,
+      "width": 1120,
+      "height": 2080.21875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 1058,
+        "scroll": 1058
+      },
+      {
+        "width": 1058,
+        "scroll": 1058
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "index.html",
+    "width": 1920,
+    "height": 1080,
+    "scrollWidth": 1920,
+    "viewport": 1920,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 635,
+        "y": 12.40625,
+        "right": 699.125,
+        "bottom": 63.59375,
+        "width": 64.125,
+        "height": 51.1875
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 717.125,
+        "y": 12.40625,
+        "right": 824.9375,
+        "bottom": 63.59375,
+        "width": 107.8125,
+        "height": 51.1875
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 842.9375,
+        "y": 12.40625,
+        "right": 971.796875,
+        "bottom": 63.59375,
+        "width": 128.859375,
+        "height": 51.1875
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 989.796875,
+        "y": 12.40625,
+        "right": 1110.078125,
+        "bottom": 63.59375,
+        "width": 120.28125,
+        "height": 51.1875
+      },
+      {
+        "text": "Мета порталу",
+        "x": 1128.078125,
+        "y": 12.40625,
+        "right": 1223.859375,
+        "bottom": 63.59375,
+        "width": 95.78125,
+        "height": 51.1875
+      },
+      {
+        "text": "Програма",
+        "x": 1241.859375,
+        "y": 12.40625,
+        "right": 1319.71875,
+        "bottom": 63.59375,
+        "width": 77.859375,
+        "height": 51.1875
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1920,
+      "bottom": 77,
+      "width": 1920,
+      "height": 77
+    },
+    "main": {
+      "x": 400,
+      "y": 77,
+      "right": 1520,
+      "bottom": 1843.5,
+      "width": 1120,
+      "height": 1766.5
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 1118,
+        "scroll": 1118
+      }
+    ],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "topics.html",
+    "width": 1920,
+    "height": 1080,
+    "scrollWidth": 1920,
+    "viewport": 1920,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 622.546875,
+        "y": 24.203125,
+        "right": 686.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 704.671875,
+        "y": 24.203125,
+        "right": 826.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 844.171875,
+        "y": 24.203125,
+        "right": 989.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 1007.40625,
+        "y": 24.203125,
+        "right": 1142.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1920,
+      "bottom": 77,
+      "width": 1920,
+      "height": 77
+    },
+    "main": {
+      "x": 400,
+      "y": 0,
+      "right": 1520,
+      "bottom": 1665.5625,
+      "width": 1120,
+      "height": 1665.5625
+    },
+    "columns": "360px 360px 360px",
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "search": true,
+      "accordion": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "feedback.html",
+    "width": 1920,
+    "height": 1080,
+    "scrollWidth": 1920,
+    "viewport": 1920,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 622.546875,
+        "y": 24.203125,
+        "right": 686.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 704.671875,
+        "y": 24.203125,
+        "right": 826.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 844.171875,
+        "y": 24.203125,
+        "right": 989.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 1007.40625,
+        "y": 24.203125,
+        "right": 1142.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1920,
+      "bottom": 77,
+      "width": 1920,
+      "height": 77
+    },
+    "main": {
+      "x": 610,
+      "y": 77,
+      "right": 1310,
+      "bottom": 1331.875,
+      "width": 700,
+      "height": 1254.875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {
+      "tooltip": true,
+      "feedback": true
+    },
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "auth.html",
+    "width": 1920,
+    "height": 1080,
+    "scrollWidth": 1920,
+    "viewport": 1920,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 622.546875,
+        "y": 25.203125,
+        "right": 686.671875,
+        "bottom": 50.796875,
+        "width": 64.125,
+        "height": 25.59375
+      },
+      {
+        "text": "Теми",
+        "x": 704.671875,
+        "y": 25.203125,
+        "right": 743.453125,
+        "bottom": 50.796875,
+        "width": 38.78125,
+        "height": 25.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 761.453125,
+        "y": 25.203125,
+        "right": 906.6875,
+        "bottom": 50.796875,
+        "width": 145.234375,
+        "height": 25.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 924.6875,
+        "y": 25.203125,
+        "right": 1060.25,
+        "bottom": 50.796875,
+        "width": 135.5625,
+        "height": 25.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1920,
+      "bottom": 77,
+      "width": 1920,
+      "height": 77
+    },
+    "main": {
+      "x": 510,
+      "y": 77,
+      "right": 1410,
+      "bottom": 1010.40625,
+      "width": 900,
+      "height": 933.40625
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [],
+    "interactions": {},
+    "errors": []
+  },
+  {
+    "browser": "Chrome",
+    "version": "155.0.8059.80",
+    "file": "lab3.html",
+    "width": 1920,
+    "height": 1080,
+    "scrollWidth": 1920,
+    "viewport": 1920,
+    "overflow": false,
+    "nav": [
+      {
+        "text": "Головна",
+        "x": 622.546875,
+        "y": 24.203125,
+        "right": 686.671875,
+        "bottom": 51.796875,
+        "width": 64.125,
+        "height": 27.59375
+      },
+      {
+        "text": "Навчальні теми",
+        "x": 704.671875,
+        "y": 24.203125,
+        "right": 826.171875,
+        "bottom": 51.796875,
+        "width": 121.5,
+        "height": 27.59375
+      },
+      {
+        "text": "Зворотний зв’язок",
+        "x": 844.171875,
+        "y": 24.203125,
+        "right": 989.40625,
+        "bottom": 51.796875,
+        "width": 145.234375,
+        "height": 27.59375
+      },
+      {
+        "text": "Лабораторна №3",
+        "x": 1007.40625,
+        "y": 24.203125,
+        "right": 1142.96875,
+        "bottom": 51.796875,
+        "width": 135.5625,
+        "height": 27.59375
+      }
+    ],
+    "outliers": [],
+    "header": {
+      "x": 0,
+      "y": 0,
+      "right": 1920,
+      "bottom": 77,
+      "width": 1920,
+      "height": 77
+    },
+    "main": {
+      "x": 400,
+      "y": 77,
+      "right": 1520,
+      "bottom": 2157.21875,
+      "width": 1120,
+      "height": 2080.21875
+    },
+    "columns": null,
+    "images": [
+      {
+        "src": "http://127.0.0.1:8055/images/logo.png",
+        "loaded": true
+      }
+    ],
+    "tableScroll": [
+      {
+        "width": 1058,
+        "scroll": 1058
+      },
+      {
+        "width": 1058,
+        "scroll": 1058
+      }
+    ],
+    "interactions": {
+      "sort": true,
+      "youngest": true
+    },
+    "errors": []
+  }
+]

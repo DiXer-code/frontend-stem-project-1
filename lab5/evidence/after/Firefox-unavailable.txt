@@ -1,0 +1,3 @@
+browserType.launch: spawn UNKNOWN
+Call log:
+[2m  - <launching> C:\Users\Artemka\AppData\Local\ms-playwright\firefox-1538\firefox\firefox.exe -no-remote -headless -profile C:\Users\Artemka\AppData\Local\Temp\playwright_firefoxdev_profile-FtAMMc -juggler-pipe -silent[22m

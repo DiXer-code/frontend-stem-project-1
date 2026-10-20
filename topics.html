@@ -3,8 +3,12 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Каталог навчальних тем Learn + earn: словниковий запас, граматика, аудіювання, письмо, говоріння та читання.">
     <title>Навчальні теми — Learn + earn</title>
+    <link rel="icon" href="lab5/assets/logo.webp" type="image/webp">
+    <link rel="stylesheet" href="lab5/assets/fonts.css">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="lab5/lab5.css">
     <script src="app.js" defer></script>
     <script src="lab4.js" defer></script>
   </head>
@@ -13,7 +17,7 @@
     <header class="site-header">
       <div class="header-inner">
         <a class="brand" href="index.html" aria-label="Learn + earn — головна">
-          <img class="brand-logo" src="images/logo.png" alt="Логотип Learn + earn" onerror="this.style.display='none'">
+          <img class="brand-logo" src="lab5/assets/logo.webp" width="42" height="42" alt="Логотип Learn + earn" onerror="this.style.display='none'">
           <span>Learn <b>+</b> earn</span>
         </a>
         <nav aria-label="Основна навігація">
@@ -26,6 +30,10 @@
       </div>
     </header>
 
+    <aside class="topics-accordion" aria-label="Короткий опис навчальних тем">
+      <h2>Коротко про теми</h2>
+    </aside>
+
     <main>
       <section class="page-intro">
         <p class="eyebrow">Каталог курсів</p>
@@ -36,9 +44,15 @@
         </p>
       </section>
 
+      <div class="topic-search">
+        <label for="topic-search-input">Пошук теми за назвою</label>
+        <input id="topic-search-input" type="search" placeholder="Наприклад, граматика" autocomplete="off">
+        <p class="topic-search-result" aria-live="polite">Усього тем: 6.</p>
+      </div>
+
       <section class="card-grid topics-grid" aria-label="Список навчальних тем">
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=900&q=80" alt="Учениця вивчає англійську мову">
+          <img src="lab5/assets/topic-1-720.webp" srcset="lab5/assets/topic-1-360.webp 360w, lab5/assets/topic-1-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Учениця вивчає англійську мову">
           <h2>Словниковий запас</h2>
           <h3>Уроки</h3>
           <ul>
@@ -51,7 +65,7 @@
         </article>
 
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=900&q=80" alt="Зошит для вивчення граматики">
+          <img src="lab5/assets/topic-2-720.webp" srcset="lab5/assets/topic-2-360.webp 360w, lab5/assets/topic-2-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Зошит для вивчення граматики">
           <h2>Граматика</h2>
           <h3>Уроки</h3>
           <ul>
@@ -64,7 +78,7 @@
         </article>
 
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1453738773917-9c3eff1db985?auto=format&fit=crop&w=900&q=80" alt="Навушники для аудіювання">
+          <img src="lab5/assets/topic-3-720.webp" srcset="lab5/assets/topic-3-360.webp 360w, lab5/assets/topic-3-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Навушники для аудіювання">
           <h2>Аудіювання</h2>
           <h3>Уроки</h3>
           <ul>
@@ -77,7 +91,7 @@
         </article>
 
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80" alt="Людина пише англійський текст">
+          <img src="lab5/assets/topic-4-720.webp" srcset="lab5/assets/topic-4-360.webp 360w, lab5/assets/topic-4-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Людина пише англійський текст">
           <h2>Письмо</h2>
           <h3>Уроки</h3>
           <ul>
@@ -90,7 +104,7 @@
         </article>
 
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=900&q=80" alt="Люди спілкуються англійською">
+          <img src="lab5/assets/topic-5-720.webp" srcset="lab5/assets/topic-5-360.webp 360w, lab5/assets/topic-5-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Люди спілкуються англійською">
           <h2>Говоріння</h2>
           <h3>Уроки</h3>
           <ul>
@@ -103,7 +117,7 @@
         </article>
 
         <article class="card topic-card">
-          <img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80" alt="Книги для читання англійською">
+          <img src="lab5/assets/topic-6-720.webp" srcset="lab5/assets/topic-6-360.webp 360w, lab5/assets/topic-6-720.webp 720w" sizes="(max-width: 520px) calc(100vw - 28px), (max-width: 1100px) 50vw, 360px" width="720" height="360" loading="lazy" decoding="async" alt="Книги для читання англійською">
           <h2>Читання</h2>
           <h3>Уроки</h3>
           <ul>
